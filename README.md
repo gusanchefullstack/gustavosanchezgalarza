@@ -18,10 +18,12 @@ Después de 20 años de experiencia como ingeniero en electrónica y telecomunic
 
 Así que este es mi camino de aprendizaje en este momento:
 
-:pushpin: HTML
+:pushpin: HTML </br>
 :pushpin: CSS
 :pushpin: Javascript
 
 Estaré publicando mis proyectos personales próximamente.
+
+
 
 Stay tune :point_down:
