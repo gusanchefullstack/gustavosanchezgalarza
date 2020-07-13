@@ -1,4 +1,4 @@
-### Hola 👋
+### Hola 👋 desde :colombia:
 
 <!--
 **gustavosanchezgalarza/gustavosanchezgalarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,5 @@ Así que este es mi camino de aprendizaje en este momento:
 :pushpin: Javascript
 
 Estaré publicando mis proyectos personales próximamente.
-
-
 
 Stay tune :point_down:
