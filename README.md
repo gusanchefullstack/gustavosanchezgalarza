@@ -29,3 +29,4 @@ Así que este es mi camino de aprendizaje en este momento:</br>
 </br>
 Estaré publicando mis proyectos personales próximamente. Stay tune :point_down:</br>
 </br>
+1. Spotify Search Artist (https://github.com/gustavosanchezgalarza/spotifysearch)
