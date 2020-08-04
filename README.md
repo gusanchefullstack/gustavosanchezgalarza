@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Soy ingeniero en electrónica y telecomunicaciones, con más de 20 años de experiencia. He trabajado en diferentes áreas dentro de compañías de tecnología incluyendo diseño y arquitectura de redes, preventa técnica de soluciones de telecomunicaciones y, en los últimos 12 años he sido profesional en ventas de software y SaaS. 
-He decidido aprovechar parte de mi tiempo en esta cuarentena impuesta para seguir aprendiendo en un área que me apasiona y me sorprende por la rapidez de cambio de los últimos años: el desarrollo web, inicialmente enfocado en el frontend. 
+He decidido aprovechar parte de mi tiempo en esta cuarentena impuesta para seguir aprendiendo en un área que me apasiona y me sorprende por su rápida innovación: el desarrollo web.</br>
+Inicialmente enfocado en ganar aprender los componentes escenciales para ser un desarrollador frontend pero gradualmente iré aprendiendo las bases para desarrollar una aplicación en el backend. Las guías que he tomado para crear mi camino son https://platzi.com/arquitecto/ y https://roadmap.sh/frontend.</br>
+</br>
 Ser un dev ha sido una pasión y asignatura pendiente desde la U y qué mejor momento que este para hacerlo...una de las tantas ventajas de esta realidad que estamos viviendo todos.
-
-Así que este es mi camino de aprendizaje en este momento:
-
+</br>
+Así que este es mi camino de aprendizaje en este momento:</br>
+</br>
 :pushpin: HTML</br>
 :pushpin: CSS</br>
 :pushpin: Javascript
