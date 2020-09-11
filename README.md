@@ -19,11 +19,11 @@ Soy ingeniero en electrónica y telecomunicaciones, con más de 20 años de expe
 He decidido aprovechar parte de mi tiempo en esta cuarentena impuesta para seguir aprendiendo en un área que me apasiona y me sorprende por su rápida innovación: el desarrollo web.</br>
 Inicialmente enfocado en aprender los componentes esenciales para ser un desarrollador frontend pero gradualmente iré aprendiendo las bases para desarrollar una aplicación en el backend. Las guías que he tomado para crear mi camino son https://platzi.com/arquitecto/ y https://roadmap.sh/frontend.</br>
 </br>
-Ser un dev ha sido una ruta deseada desde hace un tiempo, así que no hay mejor momento que este para hacerlo...</br>
+Ser un dev ha sido una ruta deseada desde hace un tiempo y qué mejor momento que este para hacerlo...</br>
 </br>
 Espero próximamente empezar a publicar en un blog sobre algunos de los tópicos que más me llaman la atención en este camino, una recomendación de muchos desarrolladores para practicar Public Learning.
 </br>
-Gracias por leerme!
+Gracias por leerme! :thumbsup:
 
 Gustavo
 
