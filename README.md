@@ -1,4 +1,4 @@
-### Hola! 👋👋👋
+### HEllo! 👋👋👋
 
 
 <!--
@@ -15,15 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy ingeniero en electrónica y telecomunicaciones, con más de 20 años de experiencia. He trabajado en diferentes áreas dentro de compañías de tecnología incluyendo diseño y arquitectura de redes, preventa técnica de soluciones de telecomunicaciones y en los últimos 12 años he sido profesional en ventas de software y SaaS. 
-He decidido aprovechar parte de mi tiempo en esta cuarentena impuesta para seguir aprendiendo en un área que me apasiona y me sorprende por su rápida innovación: el desarrollo web.</br>
-Inicialmente enfocado en aprender los componentes esenciales para ser un desarrollador frontend pero gradualmente iré aprendiendo las bases para desarrollar una aplicación en el backend. Las guías que he tomado para crear mi camino son https://platzi.com/arquitecto/ y https://roadmap.sh/frontend.</br>
-</br>
-Ser un dev ha sido una ruta deseada desde hace un tiempo y qué mejor momento que este para hacerlo...</br>
-</br>
-Espero próximamente empezar a publicar en un blog sobre algunos de los tópicos que más me llaman la atención en este camino, una recomendación de muchos desarrolladores para practicar Public Learning.
-</br>
-Gracias por leerme! :thumbsup:
+I am an electronics and telecommunications engineer, with more than 20 years of experience. I have worked in different areas within technology companies including network design and architecture, technical pre-sales of telecommunications solutions and in the last 12 years I have been a professional in software and SaaS sales. I have decided to take advantage of part of my time in this imposed quarantine to continue learning in an area that fascinates me and surprises me with its rapid innovation: web development.
+Initially focused on learning the essential components to be a frontend developer but I will gradually learn the basics to develop an application on the backend. The guides that I have used to create my own path are https://platzi.com/arquitecto/, https://roadmap.sh/frontend and https://frontendmasters.com/.
+
+Being a dev has been a desired route for a while and what better time than now to do it ...
+
+I hope to start blogging soon about some of the topics that most attract my attention along this path, a recommendation from many developers to practice Public Learning.
+
+Thanks for reading me! 👍
 
 Gustavo
 
