@@ -33,8 +33,8 @@ Gustavo
 ---
 ## 🗂 My Learning Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-huddle-landing-page-single-intro-section)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=simple-calculator)](https://github.com/gustavosanchezgalarza/simple-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-huddle-landing-page-single-intro-section)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-single-price-grid-component)](frontend-mentor-single-price-grid-component)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-chat-app-css-illustration)](https://github.com/gustavosanchezgalarza/frontend-mentor-chat-app-css-illustration)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-social-proof-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-social-proof-section)
