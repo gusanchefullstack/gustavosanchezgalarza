@@ -38,6 +38,7 @@ Gustavo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-social-proof-section)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-testimonials-grid-section)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-profile-card-component)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ## &#x1f4c8; My GitHub Stats
 
