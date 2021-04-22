@@ -44,8 +44,8 @@ Gustavo
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosanchezgalarza&theme=chartreuse-dark&show_icons=true&bg_color=142850)](https://github.com/anuraghazra/github-readme-stats)
 [![gusanche's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosanchezgalarza&theme=tokyonight&show_icons=true&count_private=true&bg_color=142850)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosanchezgalarza&theme=chartreuse-dark&show_icons=true&bg_color=142850)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/gusanchedev?style=social)
