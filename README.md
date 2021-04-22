@@ -31,13 +31,13 @@ Gustavo
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel Logo" width="60" height="60"/>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=simple-calculator)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-single-price-grid-component)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-chat-app-css-illustration)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-social-proof-section)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-testimonials-grid-section)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-profile-card-component)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-huddle-landing-page-single-intro-section)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=simple-calculator)](https://github.com/gustavosanchezgalarza/simple-calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-single-price-grid-component)](frontend-mentor-single-price-grid-component)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-chat-app-css-illustration)](https://github.com/gustavosanchezgalarza/frontend-mentor-chat-app-css-illustration)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-social-proof-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-social-proof-section)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-testimonials-grid-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-testimonials-grid-section)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-profile-card-component)](https://github.com/gustavosanchezgalarza/frontend-mentor-profile-card-component)
 
 ---
 ## &#x1f4c8; My GitHub Stats
