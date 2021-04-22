@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am an electronics and telecommunications engineer. I have decided to take advantage of part of my time in this imposed quarantine to continue learning in an area that fascinates me and surprises me with its rapid innovation: web development.
-Initially focused on learning the essential components to be a frontend developer but I will gradually learn the basics to develop an application on the backend. The guides that I have used to create my own path are https://platzi.com/arquitecto/, https://roadmap.sh/frontend and https://frontendmasters.com/.
+Initially focused on learning the essential components to be a frontend developer but I will gradually learn the basics to develop an application on the backend. The guides that I have used to create my own path are https://platzi.com/web/, https://roadmap.sh/frontend and https://frontendmasters.com/guides/learning-roadmap/.
 
-Being a dev has been a desired route for a while and what better time than now to do it ...
+Being a webdev has been a desired route for a while and what better time than now to do it ...
 
 I hope to start blogging soon about some of the topics that most attract my attention along this path, a recommendation from many developers to practice Public Learning.
 
@@ -26,3 +26,4 @@ Thanks for reading me! 👍
 
 Gustavo
 
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter%20Home&url=https%3A%2F%2Ftwitter.com%2Fgusanchedev)
