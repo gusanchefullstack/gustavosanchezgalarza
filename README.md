@@ -1,6 +1,5 @@
 ### Hello! 👋👋👋
 
-
 <!--
 **gustavosanchezgalarza/gustavosanchezgalarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +25,19 @@ Thanks for reading me! 👍
 
 Gustavo
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter%20Home&url=https%3A%2F%2Ftwitter.com%2Fgusanchedev)
+---
+## 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel Logo" width="60" height="60"/>
+
+---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/anuraghazra/github-readme-stats)
+---
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosanchezgalarza&theme=chartreuse-dark&show_icons=true&bg_color=142850)](https://github.com/anuraghazra/github-readme-stats)
+
+[![gusanche's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosanchezgalarza&theme=tokyonight&show_icons=true&count_private=true&bg_color=142850)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+![Twitter Follow](https://img.shields.io/twitter/follow/gusanchedev?style=social)
