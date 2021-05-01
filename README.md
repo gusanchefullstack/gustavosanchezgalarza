@@ -28,11 +28,12 @@ Gustavo
 ---
 ## 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel Logo" width="60" height="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Nodejs Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="40" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm Logo" width="40px" height="40px"/>  <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="Vercel Logo" width="60" height="60"/>
 
 ---
 ## 🗂 My Learning Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=can-store)](https://github.com/gustavosanchezgalarza/fastify-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=can-store)](https://github.com/gustavosanchezgalarza/can-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=simple-calculator)](https://github.com/gustavosanchezgalarza/simple-calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-huddle-landing-page-single-intro-section)
