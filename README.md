@@ -33,7 +33,7 @@ Gustavo
 ---
 ## 🗂 My Learning Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=can-store)](https://github.com/gustavosanchezgalarza/fastify-api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=fastify-api)](https://github.com/gustavosanchezgalarza/fastify-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=can-store)](https://github.com/gustavosanchezgalarza/can-store)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=simple-calculator)](https://github.com/gustavosanchezgalarza/simple-calculator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavosanchezgalarza&show_owner=true&repo=frontend-mentor-huddle-landing-page-single-intro-section)](https://github.com/gustavosanchezgalarza/frontend-mentor-huddle-landing-page-single-intro-section)
